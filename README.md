@@ -1,4 +1,5 @@
-# vue-test2
+# vuetify-admin front project
+my vuetify front website based on vue/vuetify/vuex/vue-router
 
 ## Project setup
 ```

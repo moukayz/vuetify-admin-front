@@ -1,0 +1,9 @@
+<template>
+  <div id="vuls-manage">
+    <h1>开发中...</h1>
+  </div>
+</template>
+
+<script>
+export default {};
+</script>
